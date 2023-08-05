@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite tests="1" failures="0" name="functionApp.FunctionTest" time="0.504" errors="0" skipped="0">
+<testsuite tests="1" failures="0" name="functionApp.FunctionTest" time="0.537" errors="0" skipped="0">
   <properties>
     <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
     <property name="java.vm.version" value="17.0.3+7"/>
     <property name="sun.boot.library.path" value="C:\gefa\java\jdk-17.0.3+7\bin"/>
     <property name="user.country.format" value="DE"/>
-    <property name="maven.multiModuleProjectDirectory" value="C:\projects\Atruvia\AzureFunctions\AzureFunctionSample"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\projects\Atruvia\AzureFunctions"/>
     <property name="java.vm.vendor" value="Eclipse Adoptium"/>
     <property name="java.vendor.url" value="https://adoptium.net/"/>
     <property name="guice.disable.misplaced.annotation.check" value="true"/>
@@ -16,7 +16,7 @@
     <property name="user.country" value="US"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="user.dir" value="C:\projects\Atruvia\AzureFunctions\AzureFunctionSample"/>
+    <property name="user.dir" value="C:\projects\Atruvia\AzureFunctions"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="java.runtime.version" value="17.0.3+7"/>
     <property name="os.arch" value="amd64"/>
@@ -28,7 +28,7 @@
     <property name="os.name" value="Windows 11"/>
     <property name="classworlds.conf" value="C:\gefa\maven\apache-maven-3.8.6\bin\m2.conf"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.library.path" value="C:\gefa\java\jdk-17.0.3+7\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Python311\Scripts\;C:\Python311\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files (x86)\Common Files\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Common Files\Pulse Secure\VC142.CRT\X86\;C:\ProgramData\chocolatey\bin;C:\gefa\java\jdk-17.0.3+7\bin;C:\gefa\maven\apache-maven-3.8.6\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Git\cmd;C:\xampp\php;C:\composer;C:\Users\alexander.ganovski\AppData\Local\Microsoft\WindowsApps;C:\Users\alexander.ganovski\AppData\Roaming\Composer\vendor\bin;."/>
+    <property name="java.library.path" value="C:\gefa\java\jdk-17.0.3+7\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Python311\Scripts\;C:\Python311\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Pulse Secure\VC142.CRT\X86\;C:\Program Files (x86)\Common Files\Pulse Secure\VC142.CRT\X64\;C:\Program Files (x86)\Common Files\Pulse Secure\VC142.CRT\X86\;C:\ProgramData\chocolatey\bin;C:\gefa\java\jdk-17.0.3+7\bin;C:\gefa\maven\apache-maven-3.8.6\bin;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\Git\cmd;C:\xampp\php;C:\composer;C:\Program Files\Microsoft\Azure Functions Core Tools\;C:\Users\alexander.ganovski\AppData\Local\Microsoft\WindowsApps;C:\Users\alexander.ganovski\AppData\Roaming\Composer\vendor\bin;."/>
     <property name="maven.conf" value="C:\gefa\maven\apache-maven-3.8.6/conf"/>
     <property name="jdk.debug" value="release"/>
     <property name="java.class.version" value="61.0"/>
@@ -64,5 +64,5 @@
     <property name="sun.stdout.encoding" value="cp850"/>
     <property name="sun.cpu.isalist" value="amd64"/>
   </properties>
-  <testcase classname="functionApp.FunctionTest" name="functionApp.FunctionTest.testHttpTriggerJava" time="0.504"/>
+  <testcase classname="functionApp.FunctionTest" name="functionApp.FunctionTest.testHttpTriggerJava" time="0.537"/>
 </testsuite>
